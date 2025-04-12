@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on HTML5 and CSS3
 - 🌱 I’m currently learning **JavaScript and react**
+- 🤝 I’m looking for help with JavaScript and React 
 
 - 📫 How to reach me **ahmethknsyl@gmail.com**
 
