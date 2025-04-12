@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Hakan</h1>
 <h3 align="center">A front-end developer who is eager to learn</h3>
 
+- 🔭 I’m currently working on HTML5 and CSS3
 - 🌱 I’m currently learning **JavaScript and react**
 
 - 📫 How to reach me **ahmethknsyl@gmail.com**
